@@ -1,4 +1,4 @@
-# Hello World Example
+# Light up led with Esp32
 
 Starts a FreeRTOS task to print "Hello World".
 
